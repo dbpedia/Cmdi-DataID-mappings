@@ -10,7 +10,9 @@ These are the command line calls to execute a query:
 
 important parameters:
 fromSource:	the path to the source xml file or directory
+
 file:		the path to the result rdf file
+
 rdfformat:	the output serialization (see [here](https://jena.apache.org/documentation/io/) for all options)
 
 the last entry is always the query file (.xs) without a parameter name
